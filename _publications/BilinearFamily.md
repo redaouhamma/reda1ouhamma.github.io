@@ -6,7 +6,7 @@ excerpt:
 date: 2023-02-07
 venue: 'The AAAI Conference on Artificial Intelligence'
 paperurl: 
-citation: 'Ouhamma, Reda, Debabrota Basu, and Odalric-Ambrym Maillard. "Bilinear exponential family of mdps: Frequentist regret bound with tractable exploration and planning." AAAI (2022).'
+citation: 'Ouhamma, Reda, Debabrota Basu, and Odalric-Ambrym Maillard. "Bilinear exponential family of mdps: Frequentist regret bound with tractable exploration and planning." AAAI (2023).'
 ---
 
 [Paper](http://redaouhamma.github.io/files/befrlsvi.pdf), [Poster](http://redaouhamma.github.io/files/befrlsviPoster.pdf)
