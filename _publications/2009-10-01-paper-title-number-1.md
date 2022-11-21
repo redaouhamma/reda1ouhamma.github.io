@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Stochastic Online Linear Regression: the Forward Algorithm to Replace Ridge"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/OnlineRegression
+excerpt: 'This paper is about the number 1.'
+date: 2021-05-03
+venue: 'International Conference on Learning Representations'
+paperurl: 'http://redaouhamma.github.io/files/forward.pdf'
+citation: 'Ouhamma, Reda, Odalric-Ambrym Maillard, and Vianney Perchet. "Stochastic Online Linear Regression: the Forward Algorithm to Replace Ridge." Advances in Neural Information Processing Systems 34 (2021): 24430-24441.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We consider the problem of online linear regression in the stochastic setting. We derive high probability regret bounds for online regression and the algorithm. This enables us to compare online regression algorithms more accurately and eliminate assumptions of bounded observations and predictions. Our study advocates for the use of the forward algorithm in lieu of ridge due to its enhanced bounds and robustness to the regularization parameter. Moreover, we explain how to integrate it in algorithms involving linear function approximation to remove a boundedness assumption without deteriorating theoretical bounds. We showcase this modification in linear bandit settings where it yields improved regret bounds. Last, we provide numerical experiments to illustrate our results and endorse our intuitions.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Paper](http://redaouhamma.github.io/files/forward.pdf), [Poster](http://redaouhamma.github.io/files/forwardPoster.pdf)
