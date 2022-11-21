@@ -5,7 +5,7 @@ permalink: /publication/OnlineRegression
 excerpt: 
 date: 2021-05-03
 venue: 'Neural Information Processing Systems 34'
-paperurl: 'http://redaouhamma.github.io/files/forward.pdf'
+paperurl:
 citation: 'Reda Ouhamma, Odalric-Ambrym Maillard, and Vianney Perchet. "Stochastic Online Linear Regression: the Forward Algorithm to Replace Ridge." Advances in Neural Information Processing Systems 34 (2021): 24430-24441.'
 ---
 
