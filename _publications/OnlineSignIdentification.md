@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/OnlineSignIdentification
 excerpt: 'This paper is about the number 2'
 date: 2021-12-05
-venue: 'Neural Information Processing Systems 34 (2021)'
+venue: 'Neural Information Processing Systems 34 (2021), Spotlight session (top 3% of submitted papers)'
 paperurl: 'http://academicpages.github.io/files/thresholding.pdf'
 citation: 'Ouhamma, Reda, Rémy Degenne, Vianney Perchet, and Pierre Gaillard. "Online Sign Identification: Minimization of the Number of Errors in Thresholding Bandits." Advances in Neural Information Processing Systems 34 (2021): 18577-18589.'
 ---
