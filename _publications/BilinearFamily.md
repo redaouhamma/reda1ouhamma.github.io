@@ -2,11 +2,11 @@
 title: "Bilinear Exponential Family of MDPs: Frequentist Regret Bound with Tractable Exploration & Planning"
 collection: publications
 permalink: /publication/BilinearFamily
-excerpt: 'This paper is about the number 4'
+excerpt:
 date: 2023-02-07
-venue: 'The AAAI Conference on Artificial Intelligence (2023)'
-paperurl: 'http://redaouhamma.github.io/files/befrlsvi.pdf'
-citation: 'Ouhamma, Reda, Debabrota Basu, and Odalric-Ambrym Maillard. "Bilinear exponential family of mdps: Frequentist regret bound with tractable exploration and planning." AAAI (2022).'
+venue: 'The AAAI Conference on Artificial Intelligence'
+paperurl: 
+citation: 'Ouhamma, Reda, Debabrota Basu, and Odalric-Ambrym Maillard. ["Bilinear exponential family of mdps: Frequentist regret bound with tractable exploration and planning."](http://redaouhamma.github.io/files/befrlsvi.pdf) AAAI (2022).'
 ---
 We study the problem of episodic reinforcement learning in continuous state-action spaces with unknown rewards and
 transitions. Specifically, we consider the setting where the rewards and transitions are modeled using parametric bilinear
