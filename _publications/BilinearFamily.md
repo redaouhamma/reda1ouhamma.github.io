@@ -11,8 +11,7 @@ citation: 'Ouhamma, Reda, Debabrota Basu, and Odalric-Ambrym Maillard. "Bilinear
 
 [Paper](http://redaouhamma.github.io/files/befrlsvi.pdf), [Poster](http://redaouhamma.github.io/files/befrlsviPoster.pdf)
 
-   **Abstract**
-We study the problem of episodic reinforcement learning in continuous state-action spaces with unknown rewards and
+   **Abstract:** We study the problem of episodic reinforcement learning in continuous state-action spaces with unknown rewards and
 transitions. Specifically, we consider the setting where the rewards and transitions are modeled using parametric bilinear
 exponential families. We propose an algorithm, BEF-RLSVI, that a) uses penalized maximum likelihood estimators to
 learn the unknown parameters, b) injects a calibrated Gaussian noise in the parameter of rewards to ensure exploration,
