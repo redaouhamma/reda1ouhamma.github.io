@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,10 +14,10 @@ Prior, I defended my Ph.D. at [Inria Scool](https://team.inria.fr/scool/) (ex Se
 
 Before my Ph.D., I graduated from [École Polytechnique](https://www.polytechnique.edu/) with an engineer's and Master's degree, and I also obtained the [MVA](https://www.master-mva.com/) Master's degree from ENS Paris-Saclay.
 
-Research interests
-======
+# Research interests
 Reinforcement learning theory, multi-agent systems, and well-motivated applications of RL and bandits. 
 
-Contact
-======
+# Contact
 reda dot ouhamma at gmail dot com
+
+# [my resume](https://redaouhamma.github.io/files/Reda_resume.pdf)
