@@ -14,7 +14,7 @@ Prior, I defended my Ph.D. at [Inria Scool](https://team.inria.fr/scool/) (ex Se
 Before my Ph.D., I graduated from [École Polytechnique](https://www.polytechnique.edu/) with an engineer's and Master's degree, and I obtained the [MVA](https://www.master-mva.com/) Master's degree from ENS Paris-Saclay. For more information, here is [my resume](https://redaouhamma.github.io/files/Reda_resume.pdf).
 
 ## Research interests
-Reinforcement learning theory, multi-agent systems, and well-motivated applications of RL and bandits. 
+Reinforcement learning theory, multi-agent systems, and applications of RL and bandits in real life. 
 
 ## Contact
 reda dot ouhamma at gmail dot com
